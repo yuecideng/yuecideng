@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on R&D about 3D computer vision and machine learning in serve robotiscs domain.
+- 🔭 I’m currently working on R&D about 3D computer vision and machine learning in serve robotics domain.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuecideng&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
