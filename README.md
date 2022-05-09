@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=yuecideng&color=green)
 - 🔭 I’m currently working on R&D about 3D computer vision and machine learning in serve robotics domain.
+- :heart: I'm interested in 3D geometry processing, 6D pose estimation and 3D reconstruction.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuecideng&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <!--
