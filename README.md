@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=yuecideng&color=green)
-- 🔭 I am transitioning from engineering-oriented R&D to doctoral research in embodied intelligence.
+- 🔭 I am pursuing doctoral research in embodied intelligence with a strong emphasis on engineering-grounded methodologies.
 - :heart: I'm interested in 3D computer vision&graphics, machine learning, robotics and GPU accelerated simulation.
 - 👀 I'm also interested in sim2real learning for 3D world problems, including automatic data generation for both synthesis and mixed-reality, domain adaptation, efficient learning network and pipeline, online data generation and training, continual learning etc.
 
