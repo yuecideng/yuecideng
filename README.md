@@ -1,18 +1,25 @@
-### Hi there 👋
+# Yueci Deng (邓岳慈)
 
-<!--
-**yuecideng/yuecideng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ph.D. Student, School of Data Science, The Chinese University of Hong Kong, Shenzhen**
 
-Here are some ideas to get you started:
--->
-![](https://komarev.com/ghpvc/?username=yuecideng&color=green)
-- 🔭 I am pursuing doctoral research in embodied intelligence with a strong emphasis on engineering-grounded methodologies.
-- :heart: I'm interested in 3D computer vision&graphics, machine learning, robotics and GPU accelerated simulation.
-- 👀 I'm also interested in sim2real learning for 3D world problems, including automatic data generation for both synthesis and mixed-reality, domain adaptation, efficient learning network and pipeline, online data generation and training, continual learning etc.
-- 🤝 I welcome research or open source project collaborations on Embodied Intelligence and Simulation Infrastructure. If you're interested in joint projects, code sharing, student internships, or industry partnerships, please contact me at <a href="mailto:yuecideng@link.cuhk.edu.cn">yuecideng@link.cuhk.edu.cn</a>.
+[Personal Website](https://yuecideng.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=URHu9IUAAAAJ&hl=en) · [Curriculum Vitae](https://yuecideng.github.io/cv/) · [Email](mailto:yuecideng@link.cuhk.edu.cn)
 
+I am a CS Ph.D. student at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), supervised by Prof. [Kui Jia](http://kuijia.site/). I received my B.S. from UESTC and M.S. from NTU, Singapore.
 
-![Yueci Deng's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=yuecideng&theme=dark&show_icons=true)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuecideng&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
--->
+## Research
+
+I build high-performance, scalable systems that connect generative worlds, hybrid simulation, and continual Sim2Real learning, helping embodied agents improve from real-world experience.
+
+- **Systems:** high-performance, heterogeneous, GPU-accelerated simulation and scalable data-generation and training infrastructure
+- **Simulation:** generative, neural, and differentiable simulation for robot learning
+- **Embodied intelligence:** physics-structured models, Sim2Real transfer, and online and continual learning
+
+<p align="center">
+  <a href="https://yuecideng.github.io/#research">
+    <img src="https://yuecideng.github.io/images/research/sim2real-embodied-ai-agenda.png" width="760" alt="Closed-loop Sim2Real research agenda: world generation, hybrid simulation, learning, real-robot deployment, evaluation, and continual improvement">
+  </a>
+</p>
+
+## Collaboration
+
+I welcome research and open-source collaborations on embodied intelligence and simulation infrastructure, including joint projects, code sharing, student internships, and industry partnerships. Please feel free to [get in touch](mailto:yuecideng@link.cuhk.edu.cn).
