@@ -1,11 +1,5 @@
 # Yueci Deng (邓岳慈)
 
-**Ph.D. Student, School of Data Science, The Chinese University of Hong Kong, Shenzhen**
-
-[Personal Website](https://yuecideng.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=URHu9IUAAAAJ&hl=en) · [Curriculum Vitae](https://yuecideng.github.io/cv/) · [Email](mailto:yuecideng@link.cuhk.edu.cn)
-
-I am a CS Ph.D. student at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), supervised by Prof. [Kui Jia](http://kuijia.site/). I received my B.S. from UESTC and M.S. from NTU, Singapore.
-
 ## Research
 
 I build high-performance, scalable systems that connect generative worlds, hybrid simulation, and continual Sim2Real learning, helping embodied agents improve from real-world experience.
@@ -14,12 +8,10 @@ I build high-performance, scalable systems that connect generative worlds, hybri
 - **Simulation:** generative, neural, and differentiable simulation for robot learning
 - **Embodied intelligence:** physics-structured models, Sim2Real transfer, and online and continual learning
 
-<p align="center">
-  <a href="https://yuecideng.github.io/#research">
-    <img src="https://yuecideng.github.io/images/research/sim2real-embodied-ai-agenda.png" width="760" alt="Closed-loop Sim2Real research agenda: world generation, hybrid simulation, learning, real-robot deployment, evaluation, and continual improvement">
-  </a>
-</p>
+## EmbodiChain
+
+[EmbodiChain](https://github.com/DexForce/EmbodiChain) is an open-source, end-to-end, GPU-accelerated framework that turns this research agenda—scalable systems, generative and differentiable simulation, and continual Sim2Real learning—into practical infrastructure for simulation, automated data generation, robot learning, and real-world deployment. The project is under active development, and I welcome researchers, engineers, and open-source contributors interested in new robots, tasks, simulation capabilities, learning methods, or real-world applications to collaborate and build it together.
 
 ## Collaboration
 
-I welcome research and open-source collaborations on embodied intelligence and simulation infrastructure, including joint projects, code sharing, student internships, and industry partnerships. Please feel free to [get in touch](mailto:yuecideng@link.cuhk.edu.cn).
+For research collaborations, student internships, open-source projects, or industry partnerships beyond EmbodiChain, please feel free to [get in touch](mailto:yuecideng@link.cuhk.edu.cn).
