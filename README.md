@@ -2,7 +2,7 @@
 
 ## Research
 
-I build high-performance, scalable systems that connect generative worlds, hybrid simulation, and continual Sim2Real learning, helping embodied agents improve from real-world experience.
+I build high-performance, scalable systems that connect generative worlds, hybrid simulation, and Sim2Real learning, enabling embodied agents to continually learn from their own rollouts in both simulated and real-world environments.
 
 - **Systems:** high-performance, heterogeneous, GPU-accelerated simulation and scalable data-generation and training infrastructure
 - **Simulation:** generative, neural, and differentiable simulation for robot learning
